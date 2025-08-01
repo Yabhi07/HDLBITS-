@@ -7,6 +7,7 @@
 
 
 This repository contains my solutions to all the problems of the HDL-Bits Verilog problem set.<br>
- the problem set had a total of 178 questions. 
+ the problem set had a total of 178 questions.  
+ Username-abav
  
 
