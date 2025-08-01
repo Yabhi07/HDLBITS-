@@ -7,7 +7,7 @@ module top_module(
 ); 
     assign out_assign = a&b;
     always @(*) begin 
-        out_alwaysblock=a&b; 
+        out_alwaysblock=a&b; //can also done without begin,end
     end
         
 
